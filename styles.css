@@ -1,0 +1,68 @@
+
+
+img{
+	height: 150px;
+	width: 150px;
+	margin-left:70%;
+	
+}
+	
+
+
+
+ 	
+
+.info{
+background-color:gray;
+text-align:center; 
+padding: 01px;
+border-radius: 10px;
+front-size:16px;
+}
+	
+	
+.referent{
+text-align:center;	
+}
+.details{
+text-align:center;
+background-color:gray ;
+padding: 01px;
+
+}
+.diplome{
+text-align:center;
+background-color:gray ;
+padding: 01px;
+}
+.milieu{
+	text-align: center;
+}
+.langue{
+	text-align: center;
+	background-color: gray;
+	padding: 01px;
+}
+
+.competence{
+text-align: center;	
+	background-color: gray;
+	padding: 01px;	
+}
+
+
+.a{
+	text-align: center;
+
+
+
+}
+.b{
+	text-align: center;
+}
+.c{
+text-align: center;	
+}
+.d{
+text-align: center;		
+}
